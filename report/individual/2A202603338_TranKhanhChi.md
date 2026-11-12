@@ -46,14 +46,11 @@ Chọn một lỗi **có thật** trong bài. Nếu công cụ lỗi khiến b�
 - Quy tắc và hành động sửa: …
 - Sau sửa đã Save và export lại chưa? …
 
-Nếu bạn **đã xem Summary tự đánh giá trên GitHub Actions hoặc tự chạy script**, ghi ngắn một kết quả liên quan lỗi vừa sửa (ví dụ task, metric trước/sau nếu có): … / chưa có điểm. Scorecard ba tier tối đa **82**, không phải điểm cuối trên 100. Không tự ghi PASS/top 3/bonus; người phụ trách xác nhận theo tiêu chí lớp. Không đưa file ground truth vào fork.
-
 ## 4. Ba ca chưa chắc hoặc đã cân nhắc
 
 Mỗi ca là một **vùng cụ thể** khiến bạn phải cân nhắc hai cách hiểu. Ghi dấu hiệu nhìn thấy hoặc quy tắc đã dùng, rồi nêu quyết định hoặc câu hỏi cho coach. Không cần ba lỗi; ca đã quyết định được cũng hợp lệ.
 
 | Ảnh/vị trí | Hai cách hiểu có thể | Quy tắc/chứng cứ | Quyết định hoặc câu hỏi cho coach |
 | --- | --- | --- | --- |
-| 1 | … | … | … |
-| 2 | … | … | … |
-| 3 | … | … | … |
+| cp3_thin, cột và biển báo mảnh | Vẽ từng cột riêng hay gộp cả cụm | E vẽ 24 polygon pole, mỗi cột một polygon | Vẽ riêng từng cột, câu hỏi cần:  cột quá mảnh có nên bỏ không|
+
